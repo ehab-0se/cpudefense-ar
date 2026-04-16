@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفاع وحدة المعالجة المركزية</string>
+    <string name="play">اللعب</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="resume">استئناف</string>
+    <string name="quit">خروج</string>
+    <string name="controls">التحكم</string>
+    <string name="instructions">تعليمات اللعبة</string>
+    <string name="score">نتيجة</string>
+    <string name="high_score">أعلى نتيجة</string>
+    <string name="level">مستوى</string>
+    <string name="start_game">ابدأ اللعبة</string>
+    <string name="game_over">انتهت اللعبة</string>
+</resources>
